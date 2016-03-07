@@ -1,0 +1,19 @@
+.content{
+	background:#f0ad4e;
+	margin:20px;
+	padding:5px 10px;
+}
+
+@media (min-width: 768px) {
+  #menu ul{
+    display:none;
+  }
+}
+@media (max-width: 768px) {
+  #menu{
+    background:#99cc00;
+  }
+}
+hr{
+	margin:0px;
+}
